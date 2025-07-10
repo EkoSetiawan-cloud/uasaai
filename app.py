@@ -12,7 +12,6 @@ menu = st.sidebar.radio(
         "🤖 Prediksi & Rekomendasi",
         "📊 Dashboard",
         "🧪 Evaluasi Model",
-        "ℹ️ About"
     ]
 )
 
@@ -28,4 +27,3 @@ elif menu == "📊 Dashboard":
     dashboard.show()
 elif menu == "🧪 Evaluasi Model":
     evaluasi.show()
-
