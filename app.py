@@ -3,16 +3,17 @@ from modules import home, input, preprocessing, prediksi, dashboard, evaluasi
 
 st.set_page_config(page_title="KBS Tanggap Darurat Kesehatan", layout="wide")
 
-menu = st.sidebar.selectbox(
+menu = st.sidebar.radio(
     "Navigasi Menu",
-    (
+    [
         "🏠 Home",
         "📥 Input Data Insiden",
         "⚙️ Preprocessing",
         "🤖 Prediksi & Rekomendasi",
         "📊 Dashboard",
         "🧪 Evaluasi Model",
-    )
+        "ℹ️ About"
+    ]
 )
 
 if menu == "🏠 Home":
