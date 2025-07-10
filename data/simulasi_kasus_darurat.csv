@@ -1,0 +1,305 @@
+ID Kasus,Tanggal & Waktu Kejadian,Lokasi Kejadian,Jenis Insiden,Tingkat Keparahan,Jumlah Korban,Waktu Respons Petugas (menit),Tindakan Awal,Hasil Penanganan
+KSD-0001,1/30/2023 13:38,Lubuk Baja/Tanjung Buntung,Bencana Alam,Sedang,2,43.2,Pemberian Obat,Dirujuk
+KSD-0002,9/4/2024 14:38,Nongsa/Sadai,Kejadian Lain,Sedang,3,34.5,CPR,Dirujuk
+KSD-0003,4/30/2024 13:42,Sagulung/Tiban Baru,Kecelakaan Lalu Lintas,Ringan,3,5.6,Pemberian Obat,Stabil
+KSD-0004,9/28/2024 7:38,Nongsa/Tanjung Buntung,Kebakaran,Sedang,1,20.3,Pemberian Obat,Stabil
+KSD-0005,12/25/2022 16:00,Nongsa/Duriangkang,Kecelakaan Lalu Lintas,Sedang,7,37.1,Imobilisasi,Stabil
+KSD-0006,12/22/2022 12:50,Lubuk Baja/Duriangkang,Kejadian Lain,Ringan,3,39.3,Observasi,Stabil
+KSD-0007,10/14/2022 7:52,Sekupang/Tanjung Buntung,Bencana Alam,Berat,1,23.1,Pemberian Oksigen,Meninggal
+KSD-0008,9/2/2022 9:32,Sekupang/Duriangkang,Kejadian Lain,Ringan,1,42.7,Pemberian Obat,Dirujuk
+KSD-0009,8/13/2024 15:13,Sekupang/Tiban Baru,Kecelakaan Lalu Lintas,Sedang,6,18.8,Observasi,Stabil
+KSD-0010,4/29/2023 23:45,Nongsa/Tanjung Buntung,Kejadian Lain,Ringan,2,44.4,Pemberian Obat,Stabil
+KSD-0011,7/10/2024 23:04,Sekupang/Tiban Baru,Kejadian Lain,Ringan,2,32.7,Imobilisasi,Stabil
+KSD-0012,6/29/2022 11:02,Bengkong/Tanjung Buntung,Bencana Alam,Ringan,2,13.6,Pemberian Oksigen,Dirujuk
+KSD-0013,7/6/2022 21:26,Sagulung/Tiban Baru,Kecelakaan Lalu Lintas,Sedang,7,37.3,Pemberian Oksigen,Stabil
+KSD-0014,4/23/2023 1:45,Sekupang/Tiban Baru,Kebakaran,Ringan,3,37.6,Observasi,Stabil
+KSD-0015,2/22/2022 7:54,Nongsa/Batu Besar,Kecelakaan Lalu Lintas,Sedang,5,8.2,Imobilisasi,Stabil
+KSD-0016,6/8/2024 4:39,Bengkong/Batu Besar,Kejadian Lain,Ringan,2,41.5,Pemberian Obat,Stabil
+KSD-0017,3/9/2024 18:06,Batam Kota/Duriangkang,Kebakaran,Berat,3,16.2,CPR,Stabil
+KSD-0018,9/6/2022 17:59,Lubuk Baja/Duriangkang,Bencana Alam,Ringan,3,40.5,Pemberian Oksigen,Stabil
+KSD-0019,11/18/2024 7:17,Sekupang/Duriangkang,Bencana Alam,Ringan,2,13.3,CPR,Stabil
+KSD-0020,11/8/2022 4:12,Sagulung/Batu Besar,Keracunan,Ringan,3,20.2,CPR,Stabil
+KSD-0021,8/11/2022 17:09,Sagulung/Duriangkang,Kecelakaan Lalu Lintas,Ringan,2,20.6,Pemberian Obat,Dirujuk
+KSD-0022,10/8/2023 5:29,Sagulung/Batu Besar,Keracunan,Ringan,3,42.7,Pemberian Oksigen,Stabil
+KSD-0023,12/20/2022 14:55,Lubuk Baja/Baloi Indah,Kejadian Lain,Ringan,3,21.9,Observasi,Stabil
+KSD-0024,12/30/2022 4:16,Batam Kota/Tiban Baru,Kebakaran,Ringan,2,32.5,CPR,Stabil
+KSD-0025,3/21/2023 23:58,Nongsa/Batu Besar,Kebakaran,Sedang,1,26.1,Pemberian Obat,Stabil
+KSD-0026,5/21/2023 19:29,Bengkong/Sadai,Keracunan,Ringan,2,40.0,Pemberian Obat,Meninggal
+KSD-0027,9/30/2022 13:38,Sekupang/Baloi Indah,Kejadian Lain,Ringan,2,7.0,Imobilisasi,Stabil
+KSD-0028,1/22/2022 7:09,Bengkong/Batu Besar,Keracunan,Ringan,3,29.1,Observasi,Stabil
+KSD-0029,8/24/2024 5:08,Bengkong/Tiban Baru,Keracunan,Ringan,1,34.2,Pemberian Obat,Stabil
+KSD-0030,7/6/2022 11:25,Sagulung/Sadai,Keracunan,Sedang,3,26.8,Observasi,Stabil
+KSD-0031,7/23/2022 14:34,Batam Kota/Tiban Baru,Bencana Alam,Ringan,1,41.9,Imobilisasi,Stabil
+KSD-0032,12/27/2023 2:28,Bengkong/Batu Besar,Kecelakaan Lalu Lintas,Sedang,6,31.9,Pemberian Oksigen,Stabil
+KSD-0033,12/27/2022 3:17,Bengkong/Tanjung Buntung,Kebakaran,Ringan,1,16.6,Pemberian Obat,Stabil
+KSD-0034,3/7/2022 1:14,Sagulung/Duriangkang,Kebakaran,Sedang,4,11.9,CPR,Stabil
+KSD-0035,5/2/2022 8:36,Sagulung/Duriangkang,Kecelakaan Lalu Lintas,Berat,1,6.9,CPR,Dirujuk
+KSD-0036,8/6/2024 1:13,Nongsa/Duriangkang,Kejadian Lain,Ringan,2,7.7,Pemberian Oksigen,Stabil
+KSD-0037,8/28/2022 4:48,Sagulung/Duriangkang,Kecelakaan Lalu Lintas,Berat,3,10.2,Pemberian Oksigen,Dirujuk
+KSD-0038,8/4/2024 22:44,Sagulung/Tanjung Buntung,Kecelakaan Lalu Lintas,Sedang,2,13.9,CPR,Stabil
+KSD-0039,10/11/2023 7:29,Sagulung/Tiban Baru,Kecelakaan Lalu Lintas,Ringan,2,34.5,Imobilisasi,Stabil
+KSD-0040,8/4/2024 15:28,Sekupang/Tanjung Buntung,Bencana Alam,Ringan,2,14.7,Imobilisasi,Stabil
+KSD-0041,3/16/2024 16:26,Sekupang/Sadai,Bencana Alam,Ringan,1,27.4,Pemberian Oksigen,Stabil
+KSD-0042,11/17/2022 3:25,Bengkong/Tanjung Buntung,Keracunan,Berat,4,7.2,Imobilisasi,Meninggal
+KSD-0043,1/16/2024 18:43,Lubuk Baja/Sadai,Kejadian Lain,Ringan,3,35.8,Pemberian Obat,Dirujuk
+KSD-0044,9/8/2024 3:26,Sekupang/Tiban Baru,Bencana Alam,Berat,1,22.5,CPR,Stabil
+KSD-0045,12/17/2024 13:02,Bengkong/Tiban Baru,Keracunan,Ringan,2,26.9,Observasi,Meninggal
+KSD-0046,9/25/2023 1:08,Bengkong/Tanjung Buntung,Kecelakaan Lalu Lintas,Sedang,7,36.6,Observasi,Stabil
+KSD-0047,3/24/2024 23:58,Sagulung/Tiban Baru,Bencana Alam,Ringan,1,12.0,Observasi,Stabil
+KSD-0048,10/1/2023 12:50,Sagulung/Duriangkang,Keracunan,Sedang,3,37.7,Pemberian Oksigen,Stabil
+KSD-0049,10/25/2024 4:31,Sekupang/Batu Besar,Kebakaran,Berat,6,20.3,Pemberian Obat,Meninggal
+KSD-0050,2/3/2022 23:56,Nongsa/Tiban Baru,Keracunan,Ringan,3,39.8,Pemberian Oksigen,Stabil
+KSD-0051,11/14/2022 0:19,Nongsa/Tanjung Buntung,Kebakaran,Sedang,7,16.1,Observasi,Dirujuk
+KSD-0052,3/23/2024 11:00,Sekupang/Sadai,Kecelakaan Lalu Lintas,Sedang,7,36.8,Observasi,Dirujuk
+KSD-0053,1/4/2024 20:59,Nongsa/Duriangkang,Kebakaran,Ringan,1,5.3,CPR,Dirujuk
+KSD-0054,4/6/2023 21:46,Bengkong/Baloi Indah,Kecelakaan Lalu Lintas,Sedang,3,39.3,Observasi,Stabil
+KSD-0055,1/20/2024 17:36,Lubuk Baja/Batu Besar,Kecelakaan Lalu Lintas,Sedang,3,35.2,Imobilisasi,Stabil
+KSD-0056,12/18/2023 19:24,Lubuk Baja/Baloi Indah,Keracunan,Ringan,3,17.6,CPR,Stabil
+KSD-0057,6/18/2022 3:10,Sekupang/Duriangkang,Bencana Alam,Sedang,5,43.2,Imobilisasi,Dirujuk
+KSD-0058,9/18/2024 22:28,Lubuk Baja/Tanjung Buntung,Keracunan,Ringan,3,32.4,Pemberian Oksigen,Dirujuk
+KSD-0059,3/29/2024 20:28,Batam Kota/Tiban Baru,Kebakaran,Sedang,2,26.5,Imobilisasi,Dirujuk
+KSD-0060,1/30/2022 21:48,Batam Kota/Sadai,Kejadian Lain,Ringan,2,42.9,CPR,Stabil
+KSD-0061,11/24/2022 1:01,Sekupang/Baloi Indah,Bencana Alam,Ringan,1,25.5,Imobilisasi,Stabil
+KSD-0062,8/22/2023 2:40,Nongsa/Tiban Baru,Kebakaran,Ringan,1,20.1,Pemberian Oksigen,Stabil
+KSD-0063,10/27/2022 5:32,Lubuk Baja/Tiban Baru,Kebakaran,Ringan,2,36.9,Pemberian Oksigen,Dirujuk
+KSD-0064,2/6/2023 8:54,Sagulung/Sadai,Kebakaran,Ringan,1,35.4,Observasi,Stabil
+KSD-0065,9/20/2024 9:35,Sagulung/Tiban Baru,Kebakaran,Ringan,3,25.0,Observasi,Stabil
+KSD-0066,6/25/2024 20:31,Sagulung/Tanjung Buntung,Kejadian Lain,Ringan,3,35.5,CPR,Stabil
+KSD-0067,2/26/2022 19:13,Lubuk Baja/Batu Besar,Kecelakaan Lalu Lintas,Ringan,1,44.2,Observasi,Stabil
+KSD-0068,6/24/2023 15:19,Lubuk Baja/Batu Besar,Kebakaran,Ringan,2,25.8,Pemberian Obat,Dirujuk
+KSD-0069,11/4/2024 22:35,Sagulung/Tiban Baru,Kebakaran,Ringan,3,39.1,CPR,Dirujuk
+KSD-0070,4/9/2023 11:39,Batam Kota/Duriangkang,Bencana Alam,Ringan,3,12.0,Observasi,Stabil
+KSD-0071,7/31/2023 21:38,Sekupang/Baloi Indah,Kecelakaan Lalu Lintas,Ringan,1,20.5,Pemberian Obat,Stabil
+KSD-0072,4/7/2024 5:55,Sagulung/Sadai,Keracunan,Ringan,1,36.9,CPR,Stabil
+KSD-0073,9/14/2023 3:22,Sagulung/Baloi Indah,Kebakaran,Ringan,1,17.0,CPR,Stabil
+KSD-0074,8/27/2022 2:17,Nongsa/Sadai,Bencana Alam,Ringan,3,12.3,Imobilisasi,Stabil
+KSD-0075,6/18/2023 16:25,Sekupang/Batu Besar,Kecelakaan Lalu Lintas,Ringan,1,26.1,Pemberian Oksigen,Stabil
+KSD-0076,11/25/2022 13:17,Nongsa/Baloi Indah,Kebakaran,Ringan,3,37.6,Pemberian Obat,Stabil
+KSD-0077,10/18/2022 1:17,Lubuk Baja/Tanjung Buntung,Kebakaran,Berat,4,17.4,Imobilisasi,Dirujuk
+KSD-0078,9/17/2024 6:06,Sagulung/Batu Besar,Keracunan,Ringan,2,17.8,Pemberian Oksigen,Stabil
+KSD-0079,10/19/2023 4:19,Sekupang/Tanjung Buntung,Kecelakaan Lalu Lintas,Ringan,3,44.6,CPR,Stabil
+KSD-0080,5/11/2024 18:51,Bengkong/Tanjung Buntung,Kebakaran,Ringan,3,13.8,Imobilisasi,Stabil
+KSD-0081,4/14/2024 8:37,Lubuk Baja/Tiban Baru,Kecelakaan Lalu Lintas,Ringan,3,41.1,CPR,Stabil
+KSD-0082,6/3/2022 0:25,Batam Kota/Tiban Baru,Bencana Alam,Ringan,1,43.7,Pemberian Oksigen,Stabil
+KSD-0083,6/21/2023 18:14,Lubuk Baja/Duriangkang,Bencana Alam,Ringan,1,13.3,Pemberian Obat,Stabil
+KSD-0084,2/2/2023 15:04,Sekupang/Tanjung Buntung,Kecelakaan Lalu Lintas,Sedang,6,33.7,Pemberian Obat,Stabil
+KSD-0085,11/8/2023 18:05,Bengkong/Baloi Indah,Keracunan,Berat,5,32.6,Pemberian Obat,Stabil
+KSD-0086,8/3/2024 17:36,Bengkong/Tiban Baru,Bencana Alam,Ringan,3,33.3,CPR,Stabil
+KSD-0087,12/6/2022 6:10,Lubuk Baja/Tanjung Buntung,Kejadian Lain,Ringan,1,16.5,Pemberian Obat,Stabil
+KSD-0088,8/7/2023 21:03,Sagulung/Sadai,Kecelakaan Lalu Lintas,Berat,2,21.6,Imobilisasi,Dirujuk
+KSD-0089,3/17/2024 15:31,Lubuk Baja/Duriangkang,Bencana Alam,Ringan,3,39.0,Observasi,Dirujuk
+KSD-0090,5/22/2022 13:39,Nongsa/Tiban Baru,Bencana Alam,Sedang,3,26.4,CPR,Stabil
+KSD-0091,6/18/2022 6:30,Lubuk Baja/Baloi Indah,Kejadian Lain,Sedang,2,17.7,Pemberian Obat,Stabil
+KSD-0092,11/3/2023 0:48,Lubuk Baja/Batu Besar,Kejadian Lain,Ringan,1,27.0,Pemberian Obat,Meninggal
+KSD-0093,3/15/2024 22:26,Sagulung/Tanjung Buntung,Kecelakaan Lalu Lintas,Ringan,2,26.5,Imobilisasi,Stabil
+KSD-0094,9/25/2024 8:29,Sagulung/Baloi Indah,Kejadian Lain,Sedang,4,18.2,Observasi,Stabil
+KSD-0095,11/9/2024 2:06,Sekupang/Tanjung Buntung,Kebakaran,Ringan,1,36.1,Pemberian Oksigen,Stabil
+KSD-0096,4/27/2022 1:03,Sagulung/Tanjung Buntung,Kecelakaan Lalu Lintas,Sedang,1,13.7,Imobilisasi,Stabil
+KSD-0097,6/18/2023 18:25,Sagulung/Baloi Indah,Kebakaran,Berat,2,40.9,Observasi,Dirujuk
+KSD-0098,11/25/2024 21:55,Batam Kota/Tiban Baru,Kebakaran,Sedang,7,33.9,Imobilisasi,Dirujuk
+KSD-0099,12/19/2024 1:26,Sekupang/Tiban Baru,Keracunan,Sedang,3,8.6,Imobilisasi,Meninggal
+KSD-0100,4/14/2022 5:14,Lubuk Baja/Tiban Baru,Bencana Alam,Ringan,2,33.2,Imobilisasi,Stabil
+KSD-0101,1/17/2022 17:15,Sagulung/Tiban Baru,Kebakaran,Berat,1,31.8,CPR,Stabil
+KSD-0102,3/31/2023 6:35,Sagulung/Tanjung Buntung,Kejadian Lain,Ringan,1,39.3,Pemberian Oksigen,Stabil
+KSD-0103,12/11/2022 11:01,Sagulung/Sadai,Kejadian Lain,Ringan,3,24.9,Imobilisasi,Dirujuk
+KSD-0104,4/8/2022 5:36,Bengkong/Baloi Indah,Kebakaran,Sedang,2,10.6,Pemberian Oksigen,Stabil
+KSD-0105,8/4/2023 18:18,Batam Kota/Tiban Baru,Keracunan,Sedang,2,30.7,Imobilisasi,Stabil
+KSD-0106,7/9/2023 16:02,Nongsa/Tanjung Buntung,Kejadian Lain,Ringan,2,20.3,Pemberian Oksigen,Stabil
+KSD-0107,9/1/2024 17:45,Sekupang/Sadai,Bencana Alam,Ringan,2,18.9,Observasi,Dirujuk
+KSD-0108,4/30/2023 0:12,Batam Kota/Batu Besar,Kejadian Lain,Ringan,3,25.0,Pemberian Oksigen,Stabil
+KSD-0109,2/21/2024 15:12,Sagulung/Duriangkang,Kebakaran,Ringan,2,38.9,Imobilisasi,Stabil
+KSD-0110,10/7/2024 19:56,Sagulung/Tanjung Buntung,Keracunan,Ringan,1,26.5,Imobilisasi,Dirujuk
+KSD-0111,2/8/2024 13:55,Lubuk Baja/Tiban Baru,Kejadian Lain,Ringan,3,23.6,CPR,Dirujuk
+KSD-0112,9/3/2022 10:07,Batam Kota/Tanjung Buntung,Keracunan,Sedang,1,7.1,Pemberian Obat,Stabil
+KSD-0113,2/3/2023 9:04,Bengkong/Tanjung Buntung,Kecelakaan Lalu Lintas,Ringan,1,6.9,Observasi,Dirujuk
+KSD-0114,3/21/2024 3:53,Sekupang/Tiban Baru,Kecelakaan Lalu Lintas,Ringan,3,10.0,Pemberian Obat,Stabil
+KSD-0115,11/22/2024 17:02,Nongsa/Baloi Indah,Kejadian Lain,Ringan,1,32.0,Pemberian Obat,Stabil
+KSD-0116,1/26/2024 13:23,Nongsa/Tiban Baru,Kebakaran,Ringan,1,20.7,Pemberian Oksigen,Stabil
+KSD-0117,10/1/2022 5:58,Nongsa/Duriangkang,Kejadian Lain,Ringan,3,9.4,Observasi,Meninggal
+KSD-0118,10/26/2022 20:49,Sekupang/Tiban Baru,Bencana Alam,Ringan,2,6.8,CPR,Stabil
+KSD-0119,12/16/2024 17:07,Sagulung/Baloi Indah,Kecelakaan Lalu Lintas,Ringan,2,25.3,Pemberian Oksigen,Dirujuk
+KSD-0120,10/26/2023 16:13,Sekupang/Tiban Baru,Kecelakaan Lalu Lintas,Sedang,8,7.2,Pemberian Oksigen,Stabil
+KSD-0121,1/15/2022 8:38,Lubuk Baja/Sadai,Bencana Alam,Ringan,2,42.6,Pemberian Obat,Stabil
+KSD-0122,4/9/2024 19:38,Nongsa/Tanjung Buntung,Kejadian Lain,Ringan,1,38.6,Pemberian Obat,Stabil
+KSD-0123,4/7/2024 8:41,Sagulung/Batu Besar,Kejadian Lain,Ringan,3,19.4,Pemberian Obat,Stabil
+KSD-0124,3/23/2024 19:43,Bengkong/Batu Besar,Kejadian Lain,Ringan,3,11.3,Pemberian Oksigen,Stabil
+KSD-0125,1/21/2022 18:51,Batam Kota/Sadai,Kebakaran,Ringan,3,30.8,Pemberian Oksigen,Dirujuk
+KSD-0126,8/13/2022 1:22,Batam Kota/Batu Besar,Kecelakaan Lalu Lintas,Ringan,3,28.5,Observasi,Stabil
+KSD-0127,8/31/2023 3:59,Bengkong/Tiban Baru,Kejadian Lain,Sedang,7,7.1,Observasi,Meninggal
+KSD-0128,6/29/2024 16:22,Nongsa/Batu Besar,Kejadian Lain,Ringan,1,41.3,Pemberian Oksigen,Stabil
+KSD-0129,10/15/2022 17:14,Lubuk Baja/Tiban Baru,Bencana Alam,Ringan,2,43.6,Pemberian Oksigen,Stabil
+KSD-0130,2/27/2024 19:20,Nongsa/Tiban Baru,Keracunan,Berat,2,39.4,Pemberian Oksigen,Stabil
+KSD-0131,10/20/2022 20:06,Nongsa/Batu Besar,Kecelakaan Lalu Lintas,Ringan,2,32.8,CPR,Dirujuk
+KSD-0132,10/31/2022 5:19,Nongsa/Tiban Baru,Keracunan,Sedang,6,35.6,Observasi,Dirujuk
+KSD-0133,5/22/2024 3:55,Batam Kota/Batu Besar,Kejadian Lain,Sedang,2,15.7,CPR,Stabil
+KSD-0134,10/8/2024 20:17,Lubuk Baja/Tanjung Buntung,Keracunan,Ringan,2,21.1,Pemberian Obat,Stabil
+KSD-0135,8/23/2022 17:14,Sekupang/Duriangkang,Keracunan,Ringan,3,29.0,Observasi,Dirujuk
+KSD-0136,5/9/2024 8:50,Sekupang/Tiban Baru,Kecelakaan Lalu Lintas,Sedang,8,43.5,Observasi,Stabil
+KSD-0137,12/7/2022 7:35,Batam Kota/Batu Besar,Kecelakaan Lalu Lintas,Ringan,1,5.4,CPR,Stabil
+KSD-0138,4/3/2024 9:28,Bengkong/Tanjung Buntung,Kebakaran,Ringan,1,26.3,Observasi,Stabil
+KSD-0139,1/23/2023 21:43,Sagulung/Baloi Indah,Bencana Alam,Sedang,4,33.6,Imobilisasi,Dirujuk
+KSD-0140,5/11/2023 0:48,Sekupang/Duriangkang,Keracunan,Ringan,2,13.3,Pemberian Oksigen,Meninggal
+KSD-0141,11/17/2023 7:35,Batam Kota/Tiban Baru,Kecelakaan Lalu Lintas,Ringan,2,20.0,Pemberian Obat,Stabil
+KSD-0142,3/18/2024 18:03,Batam Kota/Duriangkang,Bencana Alam,Ringan,1,41.9,Pemberian Oksigen,Dirujuk
+KSD-0143,10/6/2022 1:21,Lubuk Baja/Duriangkang,Kecelakaan Lalu Lintas,Ringan,2,43.1,CPR,Stabil
+KSD-0144,5/24/2022 17:16,Sekupang/Batu Besar,Kebakaran,Sedang,5,9.7,Observasi,Dirujuk
+KSD-0145,8/29/2024 8:53,Sagulung/Baloi Indah,Keracunan,Ringan,1,34.7,Imobilisasi,Stabil
+KSD-0146,9/7/2024 1:07,Batam Kota/Batu Besar,Kejadian Lain,Ringan,3,18.0,Pemberian Oksigen,Stabil
+KSD-0147,12/31/2022 16:21,Sekupang/Sadai,Kejadian Lain,Sedang,4,34.0,Imobilisasi,Stabil
+KSD-0148,6/9/2024 5:39,Sekupang/Baloi Indah,Kecelakaan Lalu Lintas,Sedang,2,36.9,Pemberian Obat,Stabil
+KSD-0149,7/15/2022 5:00,Sagulung/Tiban Baru,Kejadian Lain,Ringan,2,12.0,Observasi,Dirujuk
+KSD-0150,4/22/2023 3:56,Sagulung/Batu Besar,Keracunan,Sedang,7,44.8,Pemberian Oksigen,Stabil
+KSD-0151,3/9/2023 13:56,Sekupang/Tanjung Buntung,Kebakaran,Ringan,1,7.0,Imobilisasi,Stabil
+KSD-0152,2/13/2022 21:43,Batam Kota/Baloi Indah,Kecelakaan Lalu Lintas,Sedang,4,19.8,CPR,Stabil
+KSD-0153,1/29/2024 17:16,Batam Kota/Tanjung Buntung,Kejadian Lain,Sedang,8,16.6,Observasi,Dirujuk
+KSD-0154,10/19/2022 6:12,Nongsa/Baloi Indah,Kebakaran,Ringan,2,8.7,Pemberian Oksigen,Stabil
+KSD-0155,12/5/2023 14:15,Sagulung/Tanjung Buntung,Kejadian Lain,Sedang,8,19.3,Pemberian Oksigen,Stabil
+KSD-0156,5/22/2022 13:07,Sagulung/Duriangkang,Kebakaran,Ringan,1,26.0,Observasi,Stabil
+KSD-0157,4/11/2022 21:58,Sekupang/Batu Besar,Keracunan,Ringan,2,37.9,CPR,Stabil
+KSD-0158,9/19/2023 16:14,Sagulung/Baloi Indah,Kejadian Lain,Ringan,1,30.5,Imobilisasi,Stabil
+KSD-0159,4/12/2022 18:03,Sagulung/Tanjung Buntung,Kecelakaan Lalu Lintas,Sedang,8,32.3,Imobilisasi,Stabil
+KSD-0160,9/17/2024 4:19,Batam Kota/Batu Besar,Keracunan,Ringan,2,31.1,CPR,Dirujuk
+KSD-0161,4/21/2023 16:11,Sekupang/Baloi Indah,Keracunan,Ringan,1,16.6,CPR,Stabil
+KSD-0162,10/7/2023 1:48,Sagulung/Sadai,Kejadian Lain,Sedang,6,41.6,Imobilisasi,Stabil
+KSD-0163,2/25/2022 3:37,Nongsa/Tanjung Buntung,Keracunan,Sedang,7,26.5,Pemberian Obat,Stabil
+KSD-0164,7/12/2022 18:51,Batam Kota/Duriangkang,Keracunan,Ringan,1,8.2,Imobilisasi,Stabil
+KSD-0165,6/20/2024 6:02,Nongsa/Duriangkang,Bencana Alam,Ringan,3,27.7,CPR,Stabil
+KSD-0166,12/13/2022 21:27,Lubuk Baja/Tiban Baru,Kebakaran,Ringan,2,18.4,Imobilisasi,Stabil
+KSD-0167,7/8/2024 4:23,Batam Kota/Batu Besar,Kecelakaan Lalu Lintas,Ringan,2,14.8,Observasi,Dirujuk
+KSD-0168,4/13/2023 23:24,Lubuk Baja/Baloi Indah,Bencana Alam,Ringan,3,15.5,Imobilisasi,Dirujuk
+KSD-0169,7/21/2024 8:18,Nongsa/Tanjung Buntung,Kejadian Lain,Sedang,2,28.3,Pemberian Obat,Stabil
+KSD-0170,9/13/2024 12:01,Nongsa/Tiban Baru,Kejadian Lain,Ringan,2,26.4,Pemberian Obat,Stabil
+KSD-0171,12/25/2023 8:06,Lubuk Baja/Batu Besar,Kejadian Lain,Sedang,1,36.5,CPR,Stabil
+KSD-0172,4/27/2024 20:28,Sagulung/Tanjung Buntung,Keracunan,Sedang,5,6.8,CPR,Stabil
+KSD-0173,5/28/2022 21:58,Bengkong/Baloi Indah,Kecelakaan Lalu Lintas,Sedang,4,26.4,Pemberian Oksigen,Stabil
+KSD-0174,7/7/2023 4:09,Sekupang/Tiban Baru,Kejadian Lain,Ringan,2,6.4,CPR,Stabil
+KSD-0175,11/5/2022 20:22,Nongsa/Tiban Baru,Kebakaran,Berat,2,40.6,Pemberian Obat,Dirujuk
+KSD-0176,3/22/2024 13:34,Batam Kota/Baloi Indah,Kebakaran,Ringan,2,8.1,Pemberian Oksigen,Stabil
+KSD-0177,10/2/2022 22:27,Nongsa/Duriangkang,Bencana Alam,Ringan,1,30.8,Observasi,Stabil
+KSD-0178,6/17/2022 3:40,Sagulung/Tanjung Buntung,Kebakaran,Ringan,3,30.1,Pemberian Oksigen,Dirujuk
+KSD-0179,3/22/2024 8:07,Bengkong/Tiban Baru,Keracunan,Sedang,8,26.7,CPR,Stabil
+KSD-0180,3/9/2022 19:26,Nongsa/Sadai,Kejadian Lain,Ringan,2,37.7,Pemberian Obat,Stabil
+KSD-0181,4/16/2023 9:34,Bengkong/Tiban Baru,Kebakaran,Ringan,1,7.0,CPR,Dirujuk
+KSD-0182,8/30/2024 16:45,Nongsa/Duriangkang,Kebakaran,Ringan,1,31.4,Observasi,Stabil
+KSD-0183,3/27/2023 9:08,Sekupang/Baloi Indah,Kecelakaan Lalu Lintas,Berat,7,7.3,Imobilisasi,Dirujuk
+KSD-0184,4/23/2022 0:37,Nongsa/Batu Besar,Kejadian Lain,Sedang,1,7.7,Imobilisasi,Stabil
+KSD-0185,3/15/2022 12:35,Sekupang/Baloi Indah,Kejadian Lain,Sedang,3,33.8,Imobilisasi,Stabil
+KSD-0186,4/26/2023 17:48,Sekupang/Duriangkang,Kebakaran,Sedang,1,6.7,Observasi,Meninggal
+KSD-0187,6/7/2024 4:20,Bengkong/Batu Besar,Bencana Alam,Berat,4,38.5,Observasi,Stabil
+KSD-0188,1/10/2023 22:25,Sagulung/Sadai,Kejadian Lain,Ringan,1,37.9,Pemberian Obat,Stabil
+KSD-0189,4/11/2022 20:38,Nongsa/Sadai,Bencana Alam,Ringan,3,44.2,Imobilisasi,Dirujuk
+KSD-0190,7/24/2024 7:08,Lubuk Baja/Duriangkang,Kejadian Lain,Ringan,2,6.8,Observasi,Stabil
+KSD-0191,3/30/2022 8:00,Nongsa/Tanjung Buntung,Bencana Alam,Ringan,3,36.2,Pemberian Obat,Stabil
+KSD-0192,10/30/2024 11:28,Bengkong/Sadai,Kebakaran,Ringan,3,9.8,Observasi,Stabil
+KSD-0193,12/9/2023 16:27,Sagulung/Baloi Indah,Bencana Alam,Ringan,2,7.4,CPR,Stabil
+KSD-0194,10/2/2022 0:12,Sekupang/Sadai,Kecelakaan Lalu Lintas,Sedang,4,43.4,Pemberian Obat,Stabil
+KSD-0195,3/24/2023 13:13,Nongsa/Baloi Indah,Kebakaran,Ringan,3,35.3,Imobilisasi,Dirujuk
+KSD-0196,10/2/2023 20:48,Sagulung/Batu Besar,Kebakaran,Sedang,6,35.5,Observasi,Dirujuk
+KSD-0197,9/19/2022 5:54,Bengkong/Baloi Indah,Keracunan,Berat,7,17.2,Imobilisasi,Dirujuk
+KSD-0198,5/4/2022 14:18,Batam Kota/Baloi Indah,Keracunan,Ringan,2,33.3,CPR,Stabil
+KSD-0199,1/6/2023 4:29,Sagulung/Tanjung Buntung,Kecelakaan Lalu Lintas,Sedang,5,39.8,Pemberian Oksigen,Stabil
+KSD-0200,3/30/2023 13:36,Sekupang/Tanjung Buntung,Kecelakaan Lalu Lintas,Ringan,3,25.4,CPR,Stabil
+KSD-0201,5/15/2024 3:42,Sagulung/Tiban Baru,Keracunan,Ringan,1,26.5,Observasi,Stabil
+KSD-0202,3/27/2022 11:34,Lubuk Baja/Tiban Baru,Kecelakaan Lalu Lintas,Ringan,1,32.7,Pemberian Oksigen,Meninggal
+KSD-0203,3/9/2023 19:34,Sagulung/Tanjung Buntung,Bencana Alam,Ringan,1,37.5,Observasi,Stabil
+KSD-0204,1/2/2023 16:00,Bengkong/Tiban Baru,Kecelakaan Lalu Lintas,Ringan,3,32.2,CPR,Stabil
+KSD-0205,5/18/2023 9:39,Sagulung/Tanjung Buntung,Bencana Alam,Ringan,2,27.9,CPR,Stabil
+KSD-0206,6/21/2024 20:06,Bengkong/Tiban Baru,Bencana Alam,Sedang,1,12.9,CPR,Stabil
+KSD-0207,2/18/2022 11:14,Bengkong/Tiban Baru,Bencana Alam,Sedang,8,15.5,Imobilisasi,Stabil
+KSD-0208,4/1/2024 15:50,Sekupang/Tiban Baru,Kejadian Lain,Sedang,3,21.9,Imobilisasi,Dirujuk
+KSD-0209,2/18/2024 16:59,Bengkong/Batu Besar,Kebakaran,Ringan,2,5.9,Imobilisasi,Stabil
+KSD-0210,2/20/2022 15:35,Nongsa/Batu Besar,Keracunan,Sedang,7,15.5,Pemberian Obat,Stabil
+KSD-0211,10/16/2022 7:29,Nongsa/Batu Besar,Keracunan,Sedang,6,32.4,Observasi,Stabil
+KSD-0212,6/12/2024 22:11,Sekupang/Tanjung Buntung,Kejadian Lain,Ringan,2,11.2,CPR,Stabil
+KSD-0213,2/5/2022 9:59,Lubuk Baja/Duriangkang,Keracunan,Ringan,2,11.8,Pemberian Oksigen,Stabil
+KSD-0214,10/10/2024 20:38,Sekupang/Sadai,Kejadian Lain,Ringan,2,6.8,CPR,Stabil
+KSD-0215,1/5/2023 3:36,Batam Kota/Sadai,Kecelakaan Lalu Lintas,Ringan,3,22.2,Imobilisasi,Stabil
+KSD-0216,1/4/2023 19:06,Lubuk Baja/Batu Besar,Keracunan,Sedang,5,10.5,Pemberian Oksigen,Stabil
+KSD-0217,1/30/2022 10:01,Sagulung/Duriangkang,Bencana Alam,Sedang,6,28.3,Pemberian Oksigen,Stabil
+KSD-0218,8/10/2022 23:43,Sekupang/Tiban Baru,Bencana Alam,Sedang,7,11.6,Imobilisasi,Stabil
+KSD-0219,11/4/2022 22:22,Batam Kota/Tanjung Buntung,Kecelakaan Lalu Lintas,Berat,5,41.7,Observasi,Dirujuk
+KSD-0220,7/12/2024 23:20,Nongsa/Duriangkang,Kecelakaan Lalu Lintas,Ringan,3,20.2,Imobilisasi,Stabil
+KSD-0221,3/31/2024 8:43,Sekupang/Duriangkang,Kebakaran,Ringan,2,44.7,CPR,Stabil
+KSD-0222,1/14/2024 15:10,Lubuk Baja/Sadai,Kejadian Lain,Ringan,1,33.7,Observasi,Stabil
+KSD-0223,12/29/2022 22:34,Bengkong/Batu Besar,Bencana Alam,Ringan,3,10.6,Pemberian Oksigen,Stabil
+KSD-0224,6/23/2023 15:24,Bengkong/Tanjung Buntung,Bencana Alam,Ringan,1,41.2,Pemberian Obat,Stabil
+KSD-0225,4/26/2023 8:53,Batam Kota/Batu Besar,Bencana Alam,Ringan,2,27.4,Pemberian Obat,Stabil
+KSD-0226,1/19/2023 10:59,Bengkong/Tiban Baru,Keracunan,Sedang,2,21.1,Pemberian Oksigen,Stabil
+KSD-0227,4/24/2022 13:02,Sekupang/Tanjung Buntung,Keracunan,Sedang,7,41.3,Observasi,Stabil
+KSD-0228,4/12/2023 3:33,Sagulung/Tiban Baru,Kejadian Lain,Sedang,5,20.5,Pemberian Oksigen,Stabil
+KSD-0229,8/26/2023 17:19,Bengkong/Sadai,Bencana Alam,Ringan,3,39.0,Pemberian Obat,Stabil
+KSD-0230,9/28/2023 20:42,Nongsa/Duriangkang,Kecelakaan Lalu Lintas,Ringan,3,16.6,Pemberian Obat,Stabil
+KSD-0231,2/7/2022 21:25,Lubuk Baja/Baloi Indah,Keracunan,Ringan,1,41.9,Imobilisasi,Stabil
+KSD-0232,10/24/2024 9:38,Bengkong/Tanjung Buntung,Keracunan,Sedang,7,20.9,CPR,Stabil
+KSD-0233,3/18/2022 19:23,Batam Kota/Baloi Indah,Kejadian Lain,Ringan,1,15.7,CPR,Stabil
+KSD-0234,4/5/2023 4:33,Sekupang/Duriangkang,Kecelakaan Lalu Lintas,Ringan,2,25.3,Observasi,Stabil
+KSD-0235,7/10/2022 11:00,Nongsa/Batu Besar,Kejadian Lain,Ringan,1,34.0,Pemberian Oksigen,Stabil
+KSD-0236,11/11/2024 16:43,Lubuk Baja/Duriangkang,Kejadian Lain,Ringan,2,19.1,Pemberian Oksigen,Stabil
+KSD-0237,6/20/2024 20:35,Bengkong/Batu Besar,Kecelakaan Lalu Lintas,Sedang,4,31.8,Observasi,Stabil
+KSD-0238,1/18/2024 6:05,Batam Kota/Tanjung Buntung,Bencana Alam,Sedang,5,43.4,Observasi,Dirujuk
+KSD-0239,3/2/2022 3:09,Bengkong/Sadai,Bencana Alam,Ringan,2,30.6,Imobilisasi,Stabil
+KSD-0240,3/11/2024 5:18,Lubuk Baja/Sadai,Keracunan,Ringan,1,30.8,Pemberian Obat,Stabil
+KSD-0241,5/5/2024 8:58,Bengkong/Batu Besar,Keracunan,Ringan,3,26.5,Observasi,Stabil
+KSD-0242,2/13/2023 10:55,Sagulung/Batu Besar,Kecelakaan Lalu Lintas,Ringan,1,34.9,Pemberian Oksigen,Stabil
+KSD-0243,10/3/2024 4:02,Nongsa/Tiban Baru,Keracunan,Sedang,5,34.5,Observasi,Dirujuk
+KSD-0244,7/4/2022 2:33,Sekupang/Tanjung Buntung,Kejadian Lain,Berat,2,37.7,Pemberian Oksigen,Dirujuk
+KSD-0245,9/17/2022 2:57,Lubuk Baja/Duriangkang,Keracunan,Ringan,1,39.3,Pemberian Obat,Stabil
+KSD-0246,11/18/2023 5:27,Sekupang/Baloi Indah,Kejadian Lain,Ringan,2,24.2,Observasi,Dirujuk
+KSD-0247,8/17/2022 22:33,Nongsa/Sadai,Kejadian Lain,Ringan,2,43.4,Observasi,Dirujuk
+KSD-0248,8/20/2024 19:52,Sagulung/Batu Besar,Kecelakaan Lalu Lintas,Ringan,1,17.5,Imobilisasi,Dirujuk
+KSD-0249,8/31/2024 14:58,Sekupang/Tiban Baru,Kecelakaan Lalu Lintas,Ringan,3,29.2,Imobilisasi,Meninggal
+KSD-0250,4/29/2023 3:48,Sekupang/Batu Besar,Keracunan,Ringan,2,15.4,Observasi,Stabil
+KSD-0251,5/17/2023 2:35,Lubuk Baja/Tanjung Buntung,Bencana Alam,Ringan,2,22.1,Pemberian Oksigen,Stabil
+KSD-0252,4/2/2023 9:55,Nongsa/Tanjung Buntung,Kecelakaan Lalu Lintas,Sedang,3,26.4,Observasi,Stabil
+KSD-0253,1/4/2023 12:07,Bengkong/Batu Besar,Kebakaran,Ringan,3,19.1,Pemberian Obat,Dirujuk
+KSD-0254,2/1/2024 7:39,Lubuk Baja/Sadai,Keracunan,Berat,7,18.6,Imobilisasi,Dirujuk
+KSD-0255,3/24/2024 14:52,Batam Kota/Duriangkang,Bencana Alam,Sedang,3,30.2,Pemberian Obat,Stabil
+KSD-0256,1/10/2023 23:03,Sagulung/Baloi Indah,Kebakaran,Ringan,1,13.8,Imobilisasi,Stabil
+KSD-0257,8/26/2022 13:34,Sagulung/Baloi Indah,Kecelakaan Lalu Lintas,Sedang,4,9.7,Imobilisasi,Stabil
+KSD-0258,12/8/2024 5:22,Bengkong/Tanjung Buntung,Bencana Alam,Sedang,3,25.2,Imobilisasi,Stabil
+KSD-0259,2/24/2023 9:41,Sekupang/Sadai,Kebakaran,Ringan,1,42.9,Observasi,Stabil
+KSD-0260,8/6/2024 17:49,Lubuk Baja/Batu Besar,Kecelakaan Lalu Lintas,Sedang,5,9.8,Pemberian Oksigen,Stabil
+KSD-0261,12/9/2024 1:53,Batam Kota/Tanjung Buntung,Bencana Alam,Sedang,4,15.3,Observasi,Meninggal
+KSD-0262,1/31/2023 9:10,Lubuk Baja/Sadai,Kebakaran,Sedang,6,28.8,CPR,Stabil
+KSD-0263,9/22/2024 8:33,Sagulung/Sadai,Keracunan,Ringan,2,35.3,CPR,Stabil
+KSD-0264,11/22/2023 19:05,Batam Kota/Baloi Indah,Kejadian Lain,Ringan,2,42.9,CPR,Dirujuk
+KSD-0265,1/11/2023 12:16,Nongsa/Batu Besar,Kecelakaan Lalu Lintas,Ringan,3,13.6,CPR,Stabil
+KSD-0266,11/11/2023 6:41,Batam Kota/Duriangkang,Keracunan,Ringan,2,5.9,Pemberian Obat,Dirujuk
+KSD-0267,2/7/2024 23:42,Nongsa/Duriangkang,Bencana Alam,Sedang,5,44.8,Pemberian Oksigen,Stabil
+KSD-0268,1/6/2022 19:58,Sagulung/Sadai,Keracunan,Berat,3,10.7,CPR,Dirujuk
+KSD-0269,1/11/2024 4:43,Sagulung/Tiban Baru,Kecelakaan Lalu Lintas,Sedang,2,38.7,Observasi,Stabil
+KSD-0270,8/14/2022 4:15,Sekupang/Baloi Indah,Kecelakaan Lalu Lintas,Ringan,3,42.0,CPR,Stabil
+KSD-0271,3/6/2022 21:04,Nongsa/Sadai,Keracunan,Sedang,5,33.4,Pemberian Oksigen,Dirujuk
+KSD-0272,11/26/2023 17:17,Sekupang/Sadai,Keracunan,Ringan,1,37.8,CPR,Stabil
+KSD-0273,9/8/2023 23:41,Bengkong/Tanjung Buntung,Keracunan,Sedang,5,30.0,CPR,Stabil
+KSD-0274,6/23/2024 4:07,Nongsa/Batu Besar,Kebakaran,Ringan,3,5.1,Pemberian Oksigen,Stabil
+KSD-0275,10/18/2023 1:01,Sagulung/Tiban Baru,Kejadian Lain,Ringan,2,6.0,CPR,Stabil
+KSD-0276,7/22/2022 5:29,Bengkong/Tanjung Buntung,Keracunan,Sedang,3,13.3,CPR,Stabil
+KSD-0277,6/4/2023 17:45,Lubuk Baja/Tanjung Buntung,Kejadian Lain,Sedang,5,22.5,Observasi,Stabil
+KSD-0278,10/2/2023 20:01,Lubuk Baja/Sadai,Kebakaran,Ringan,3,10.0,CPR,Stabil
+KSD-0279,9/26/2022 11:06,Sagulung/Baloi Indah,Kejadian Lain,Sedang,2,33.1,Observasi,Stabil
+KSD-0280,10/16/2022 19:51,Bengkong/Duriangkang,Kebakaran,Sedang,6,5.1,Pemberian Obat,Dirujuk
+KSD-0281,9/22/2022 8:43,Sagulung/Baloi Indah,Kejadian Lain,Sedang,2,36.7,Pemberian Oksigen,Stabil
+KSD-0282,5/27/2024 0:53,Sekupang/Batu Besar,Bencana Alam,Ringan,2,30.0,Imobilisasi,Dirujuk
+KSD-0283,5/26/2023 21:29,Nongsa/Batu Besar,Bencana Alam,Berat,4,41.1,Observasi,Meninggal
+KSD-0284,4/8/2022 16:26,Batam Kota/Sadai,Kecelakaan Lalu Lintas,Ringan,3,44.9,Imobilisasi,Dirujuk
+KSD-0285,7/24/2022 21:29,Nongsa/Baloi Indah,Kejadian Lain,Sedang,1,5.7,Pemberian Oksigen,Stabil
+KSD-0286,10/28/2024 4:18,Batam Kota/Tiban Baru,Kebakaran,Sedang,2,41.8,Pemberian Oksigen,Stabil
+KSD-0287,5/6/2023 8:25,Sekupang/Batu Besar,Kebakaran,Ringan,1,36.2,Pemberian Oksigen,Stabil
+KSD-0288,4/30/2022 14:08,Batam Kota/Batu Besar,Kebakaran,Ringan,1,18.3,Pemberian Oksigen,Dirujuk
+KSD-0289,11/15/2023 2:11,Sagulung/Tiban Baru,Kejadian Lain,Sedang,1,21.3,Observasi,Stabil
+KSD-0290,11/4/2023 14:44,Sekupang/Tiban Baru,Kecelakaan Lalu Lintas,Sedang,7,42.6,Imobilisasi,Stabil
+KSD-0291,7/12/2024 4:08,Nongsa/Sadai,Kejadian Lain,Berat,6,44.8,Pemberian Obat,Dirujuk
+KSD-0292,10/15/2022 16:14,Lubuk Baja/Duriangkang,Kecelakaan Lalu Lintas,Berat,3,39.7,CPR,Stabil
+KSD-0293,5/22/2022 9:52,Batam Kota/Tanjung Buntung,Kejadian Lain,Berat,6,11.1,Pemberian Obat,Dirujuk
+KSD-0294,8/2/2023 15:58,Nongsa/Batu Besar,Kejadian Lain,Sedang,8,22.0,CPR,Stabil
+KSD-0295,10/19/2024 22:15,Nongsa/Baloi Indah,Bencana Alam,Ringan,1,11.4,Pemberian Oksigen,Stabil
+KSD-0296,6/22/2023 3:37,Lubuk Baja/Baloi Indah,Kecelakaan Lalu Lintas,Sedang,2,10.1,Pemberian Obat,Stabil
+KSD-0297,9/22/2023 3:39,Lubuk Baja/Batu Besar,Kebakaran,Ringan,2,35.1,Observasi,Stabil
+KSD-0298,12/4/2022 4:01,Sagulung/Tanjung Buntung,Keracunan,Ringan,1,41.8,Pemberian Obat,Stabil
+KSD-0299,11/19/2023 3:56,Sagulung/Tanjung Buntung,Bencana Alam,Sedang,5,25.0,Pemberian Oksigen,Stabil
+KSD-0300,5/3/2023 8:15,Sagulung/Sadai,Bencana Alam,Sedang,2,38.9,Pemberian Obat,Stabil
+KSD-0301,7/10/2025 10:11,Batam Kota/Baloi Indah,Kecelakaan Lalu Lintas,Ringan,1,10.0,CPR,
+KSD-0302,7/10/25 10:12,Batam Kota/Baloi Indah,Kecelakaan Lalu Lintas,Ringan,1,10.0,CPR,Stabil
+KSD-0303,2025-07-10 10:15:46.265801,Batam Kota/Baloi Indah,Kecelakaan Lalu Lintas,Ringan,1,10.0,CPR,Stabil
+KSD-0304,7/10/2025 10:43:39,Batam Kota/Duriangkang,Keracunan,Ringan,1,10.0,CPR,Stabil
