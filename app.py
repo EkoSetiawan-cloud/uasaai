@@ -11,7 +11,7 @@ menu = st.sidebar.radio(
         "⚙️ Preprocessing",
         "🤖 Prediksi & Rekomendasi",
         "📊 Dashboard",
-        "🧪 Evaluasi Model",
+        "🧪 Evaluasi Model"
     ]
 )
 
